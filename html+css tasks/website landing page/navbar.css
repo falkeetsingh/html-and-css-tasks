@@ -1,0 +1,21 @@
+
+.navbar{
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 2rem;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: rgb(144, 144, 144);
+}
+.navbar-right{
+    display: flex;
+    position: absolute;
+    right: 0;
+    margin-right: 5rem;
+}
+.nav-element{
+    margin-right: 1rem;
+    cursor: pointer;
+}

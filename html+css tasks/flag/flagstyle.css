@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.flag-container{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+.upper-part{
+    height: 70px;
+    background-color: #00A9CE;
+}
+.middle-part{
+    height: 60px;
+    background-color: #FDDA25;
+}
+.lower-part{
+    height: 70px;
+    background-color: #00A9CE;
+}
+.triangle{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 140px solid #000000;
+}
